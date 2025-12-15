@@ -2,7 +2,7 @@
 |-------|-------|-------|-------|-------|
 | Amadeus | 1984 | movie | Bipolar disorder | 6A60 |
 
-<img src="./lee-sukyong.png" alt="description" style="width:25%;" />
+<img src="./lee-sukyong.png" alt="created by Gemini.Pro2" style="width:50%;" />
 
 # Amadeus
 
@@ -15,3 +15,10 @@ In the film Amadeus (1984), the paranoid delusions and madness experienced by an
 주인공이 죄책감을 느끼며 심리적 고통을 얻는 또다른 영화인 [디어 에반 핸슨](kwon-dohyeon.md)에서는 에반이 자신에게 쓴 편지가 자살한 친구의 유서로 오해받으면서 벌어지는 사건들을 다룬다. 에반은 이 오해를 바로잡지 못하고, 유가족에게 거짓말을 하게 되며, 그 과정에서 생애 처음으로 다른 사람들의 많은 관심을 받게 된다. 작품은 이러한 상황 속에서 진실을 밝혀야 한다는 죄책감과 관심받고 싶은 욕망 사이에서 갈등하는 에반의 내면을 섬세하게 그려낸다.
 
 In another film where the protagonist experiences psychological pain from guilt, [Dear Evan Hansen](kwon-dohyeon.md), the story follows Evan, whose self-written letter is mistaken for the suicide note of a deceased classmate. Unable to correct the misunderstanding, Evan lies to the grieving family and, for the first time in his life, finds himself the center of others’ attention. The film delicately portrays Evan’s inner conflict between the guilt of concealing the truth and his deep desire to be seen and accepted.
+
+
+삶의 마지막 장을 덮는 순간, 모차르트의 '라크리모사(Lacrimosa)'가 울려 퍼지길 희망합니다. 눈물 흐르는 날을 의미하는 이 곡은 인간의 슬픔을 가장 아름답고 숭고하게 승화시킨 선율이라 생각합니다. 죽음이라는 피할 수 없는 운명 앞에서 느끼는 깊은 애도와, 그 너머에 있을 영원한 안식을 동시에 전해주기 때문입니다. 남겨진 이들이 이 음악을 통해 슬픔을 충분히 쏟아내고, 동시에 따뜻한 위로를 받기를 바라는 마음으로 이 곡을 선택했습니다.
+
+I hope Mozart's 'Lacrimosa' will be played at the moment closing the final chapter of my life. Meaning "weeping," this piece sublimates human sorrow into the most beautiful and noble melody. It conveys both the deep mourning felt before the inevitable destiny of death and the eternal rest that lies beyond. I chose this music hoping that those left behind can fully express their grief and, at the same time, find warm comfort through this melody.
+
+[Mozart - Lacrimosa (Karl Böhm)](https://www.youtube.com/watch?v=JmXJ74J71Yc)
