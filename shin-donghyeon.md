@@ -16,7 +16,7 @@ Although the subject and content of the game [OMORI](woo-seunghun.md) are differ
 
 # Music for My Funeral
 
-I hope that [Kim Dong-ryul – Thanks](https://www.youtube.com/watch?v=OHJle2J3RTA&list=RDOHJle2J3RTA&start_radio=1) will be played at my funeral. I think this song can convey my gratitude and love for the relationship that has been with me in the time of my life to those who came to the funeral rather than the sadness of farewell due to death. The calm and resonant sound and the emotion of gratitude contained in the lyrics seem to be able to be decorated with gratitude for those who are with me until the last minute of life, not just for sadness even in the moment of separation.
+I hope that [Kim Dong-ryul – Thanks](https://www.youtube.com/watch?v=OHJle2J3RTA&list=RDOHJle2J3RTA&start_radio=1) will be played at my funeral. I think this song can convey my gratitude and love for the relationship that has been with me in the time of my life to those who came to the funeral rather than the sadness of farewell due to death. The piano, which leads the entire song, creates a calm atmosphere with simple harmony and repetitive patterns, and the drums provide minimal beat with understated rhythms, allowing the vocals to naturally stand out. The soft tone of the flute and clarinet and the sound of the violin and cello are subtly added to expand the depth of emotion and convey the emotion of separation maturely and calmly. The calm and resonant sound and the emotion of gratitude contained in the lyrics seem to be able to be decorated with gratitude for those who are with me until the last minute of life, not just for sadness even in the moment of separation.
 
 # Connection with 'HYQ Portfolio' Final Edition
 
@@ -42,7 +42,7 @@ In the end, the movie 'The Diving Bell and the Butterfly' answers the final ques
 
 # 장례식에서 연주되길 희망하는 음악
 
-나의 장례식에서 [김동률 – 감사](https://www.youtube.com/watch?v=OHJle2J3RTA&list=RDOHJle2J3RTA&start_radio=1)가 연주되기를 희망한다. 이 곡은 죽음으로 인한 이별의 슬픔보다는 장례식에 찾아와준 사람들에게 내가 살아온 시간 속에서 내 삶을 함께 해준 인연에 대한 고마움과 사랑을 전달해줄 수 있다고 생각한다. 잔잔하면서도 울림이 있는 사운드와 가사에 담긴 감사의 정서는 이별의 순간에도 슬픔에만 머무르지 않고 삶의 마지막 순간까지 함께 해주는 사람들에 대한 고마움으로 장식할 수 있을 것 같다.
+나의 장례식에서 [김동률 – 감사](https://www.youtube.com/watch?v=OHJle2J3RTA&list=RDOHJle2J3RTA&start_radio=1)가 연주되기를 희망한다. 이 곡은 죽음으로 인한 이별의 슬픔보다는 장례식에 찾아와준 사람들에게 내가 살아온 시간 속에서 내 삶을 함께 해준 인연에 대한 고마움과 사랑을 전달해줄 수 있다고 생각한다. 곡 전반을 이끄는 피아노는 단순한 화성과 반복적인 패턴으로 차분한 분위기를 만들며 드럼은 절제된 리듬으로 최소한의 박자감을 제공해 보컬이 자연스럽게 부각되도록 한다. 플룻, 클라리넷의 부드러운 음색과 바이올린, 첼로의 음향이 은은하게 더해져 감정의 깊이를 확장하면서 이별의 정서를 성숙하고 잔잔하게 전달한다. 잔잔하면서도 울림이 있는 사운드와 가사에 담긴 감사의 정서는 이별의 순간에도 슬픔에만 머무르지 않고 삶의 마지막 순간까지 함께 해주는 사람들에 대한 고마움으로 장식할 수 있을 것 같다.
 
 # 'HYQ Portfolio' 최종본과의 연결
 
