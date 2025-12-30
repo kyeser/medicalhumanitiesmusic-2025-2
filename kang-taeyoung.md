@@ -6,8 +6,6 @@ Disease : Kyphosis,Craniofacial anomalies
 ICD : M40,Q75.9
 ---
 
-
-
 # The Hunchback of Notre Dame(1996)
 
 Disney’s The Hunchback of Notre Dame features the song [“Out There”](https://youtu.be/jdIP2xmDqx0?si=WNXcH4_kSJyX5XiU), which musically contrasts Quasimodo’s disability with his longing for freedom. Through changes in key, timbre, and rhythm, the song juxtaposes two opposing emotional states: despair confined by prejudice and hope directed toward liberation. In the opening section, particularly the prologue, the music is set in a minor key, with a low register dominated by brass and cello, creating a heavy and oppressive sound. The slow, solemn tempo symbolizes the authoritarian and controlling power of Frollo. The lyric “You are deformed, and you are ugly” emphasizes that Quasimodo’s physical difference is not merely an external trait, but a symbol of “sin” imposed by society, deepening his internalized despair.
@@ -19,6 +17,7 @@ Another work that deals with facial deformity, [The Man Who Laughs](kim-seonghwi
 
 
 # The song I wish to be played at my funeral
+
 The song I wish to be played at my funeral is Stevie Wonder’s [<Isn’t She Lovely>](https://www.youtube.com/watch?v=oE56g61mW44). This piece was written to celebrate the birth of his daughter, capturing the moment when love becomes a living being. With its warmth and joyful melody, I believe the song can convey smiles and affection to those who gather to remember me.
 This choice is closely connected to my HYQ Future Question: “When AI-generated works appear to recreate human emotions such as pain as if they truly understand them, does human-created art still matter?” While AI can skillfully reproduce emotional expressions through learning, it cannot create music as the result of a life-changing event that has actually been lived. The value of art lies not in the perfection of emotional representation, but in the presence of a living subject who truly experienced and carried that emotion—making human-created art ultimately irreplaceable.
 
@@ -35,5 +34,6 @@ This choice is closely connected to my HYQ Future Question: “When AI-generated
 
 
 # 나의 장례식에서 연주 되길 희망하는 곡
+
 나의 장례식장에서 흘러나오길 원하는 곡은 Stevie Wonder의 [<Isn’t she lovely>](https://www.youtube.com/watch?v=oE56g61mW44)이다. 이 노래는 그의 딸의 탄생을 축하하기 위해 작곡된 곡으로 사랑이 실제 생명이 된 순간을 노래한 곡이다. 가사의 따스함과 경쾌한 멜로디가 나를 기억하기 위해 와준 사람들에게 웃음과 사랑을 전해줄 수 있을 것 같기에 이 곡을 선곡했다.
 이 선택은 내가 작성한 HYQ Future question, ‘AI가 고통과 같은 인간이 느낄 수 있는 감정 등을 이해한 것처럼 재현하는 작품들이 등장할 때도 인간이 창작한 예술은 중요한가?’ 라는 질문과 연관지을 수 있다. AI는 학습이라는 과정을 바탕으로 사람의 감정을 정교하게 재현할 수 있지만 그 기쁨이 한 존재의 삶을 실제로 변화시킨 ‘사건의 결과’로서 음악을 만들어내진 못한다. 예술 작품의 가치는 감정의 완성도보다, 그 감정을 실제로 느끼는 삶의 주체가 음악 안에 존재한다는 것에서 드러나기에 인간이 창작한 예술은 여전히 대체 불가능하다고 말할 수 있다.
