@@ -8,7 +8,7 @@ ICD: F31 (Bipolar Affective Disorder), F20 (Schizophrenia and other psychotic di
 
 
 # Daily Dose of Sunshine
-
+[Teaser](https://youtu.be/rMaeNxPsDm8?si=r5CPP0Yqebbz6uhB)
 "Daily Dose of Sunshine" is a drama about Jung Dae-eun (Park Bo-young), a nurse who worked in the internal medicine department for three years, who was first appointed to the mental health department and worked in the mental ward. Daeun meets patients with various mental illnesses in the mental ward, experiences their heartache stories, and grows as a nurse and a person who overcomes mental illness in the process. The drama realistically depicts various mental illnesses such as bipolar disorder, delusional disorder, social anxiety disorder, panic disorder, and depression, and beyond prejudice against mental illness, it sheds light on the human side of patients and their pain with a warm gaze. The original is a webtoon of the same name by Iraha, who actually worked in the psychiatric ward for six years, and contains vivid experiences of the scene.
 
 
@@ -29,12 +29,24 @@ Music Awards at the 20th Buil Film Awards in 2013 ("Berlin")
 
 Music Award at the 11th Asian Film Awards in 2016 (DONGJU)
 
-# 정신병동에도 아침이 와요
 
 One of the most common [mental disorders](bae-minseok.md) among modern people is panic disorder. Panic disorder is a condition in which intense fear and anxiety occur suddenly, even without any external threat, often accompanied by physical symptoms such as rapid heartbeat or shortness of breath. The film Perfect Blue effectively captures this state of panic through its use of dissonance and noise, vividly conveying the protagonist’s confusion and fear as she loses her grip on the boundary between reality and illusion.
 
-# 정신병동에도 아침이 와요
 
+<img src="./choi-junwon.png" alt="an image of the inner side of a patient with panic disorder" style="width:25%;" />
+
+# Music I want to play at my funeral
+
+The song I want to be played at my funeral is IU’s [lullaby](https://youtu.be/aepREwo5Lio?si=YOsQpL2D_RqXU5z3). It may sound like a melody meant simply to put someone to sleep, but it is also a song that quietly covers those who have spent their waking hours enduring life. IU created this piece not just to soothe someone into rest, but to offer gentle reassurance—to tell a tired person, “You did well today. It’s okay to rest now.”
+
+That is why I hope this song fills the space at my final moment. I don’t want to leave behind a grand message; instead, as IU intended, I want to whisper to the world, “It’s alright now. You can let go.” If there is a moment when a life can finally loosen its grip, I believe it should be wrapped in something as soft as a lullaby.
+
+“Lullaby” offers a warmth of rest not only to the one who is leaving, but also to those who remain. And that is why I want this song to gently close the end of my story.
+
+
+
+# 정신병동에도 아침이 와요
+[티저](https://youtu.be/rMaeNxPsDm8?si=r5CPP0Yqebbz6uhB)
 '정신병동에도 아침이 와요'는 내과에서 3년간 근무하던 간호사 정다은(박보영)이 정신건강의학과로 처음 발령받아 정신병동에서 근무하게 되면서 벌어지는 이야기를 다룬 드라마입니다. 다은은 정신병동 안에서 다양한 정신질환을 앓고 있는 환자들을 만나며 그들의 마음 시린 이야기를 경험하고, 그 과정에서 간호사로서, 그리고 정신 질환을 극복해 나가는 사람으로서 성장해 나갑니다. 드라마는 양극성 장애, 망상장애, 사회불안장애, 공황장애, 우울증 등 다양한 정신질환을 현실감 있게 묘사하며, 정신질환에 대한 편견을 넘어 환자들의 인간적인 면모와 그들이 겪는 고통을 따뜻한 시선으로 조명합니다. 원작은 정신병동에서 6년간 실제로 근무했던 이라하 작가의 동명 웹툰으로, 현장의 생생한 경험이 담겨 있습니다.
 
 
@@ -56,4 +68,11 @@ Mowg는 20대 시절 뉴욕에서 활동하며 정글북의 주인공 모글리�
 2016년 제11회 아시안 필름 어워드 음악상 《동주》)
 
 현대인들이 가장 많이 겪는 정신 질환 중 하나는 [공황장애](bae-minseok.md)이다. 공황장애는 특별한 외부 자극이 없음에도 불구하고 극심한 불안과 공포가 갑작스럽게 찾아오는 질환으로, 심장이 빨리 뛰거나 숨이 막히는 등 신체적 증상을 동반하기도 한다. 영화 퍼펙트 블루는 이러한 공황 상태를 시각적, 청각적으로 표현하기 위해 불협화음과 소음을 적극적으로 활용하며, 인물이 현실과 환상의 경계에서 느끼는 혼란과 두려움을 실감나게 전달한다.
+
+# 장례식에서 틀어졌으면 하는 노래
+내가 장례식에서 틀어졌으면 하는 노래는 아이유의 [자장가](https://youtu.be/aepREwo5Lio?si=YOsQpL2D_RqXU5z3)다. 이 노래는 누군가를 잠들게 하기 위한 멜로디이지만, 동시에 깨어 있는 시간 동안 버티느라 지친 사람을 조용히 덮어주는 노래이기도 하다. 아이유가 이 곡을 만든 이유 역시 단순한 ‘잠의 유도’가 아니라, 하루를 견디고 살아낸 사람에게 “이제는 괜찮다”고 말해주는, 아주 조용한 위로에 있었다고 알려져 있다.
+
+그래서 나는 마지막 순간의 공간에 이 노래가 흐르길 바란다. 누군가에게 강렬한 메시지를 남기기보다는, 마치 아이유가 그러했듯 나 또한 세상을 향해 “이제는 괜찮아, 편히 쉬어도 된다”는 인사를 건네고 싶기 때문이다. 삶이 끝에서야 비로소 완전히 놓일 수 있다면, 그 순간을 감싸는 음악은 소란스럽지 않은 자장가여야 한다고 믿는다.
+
+〈자장가〉는 떠나는 나에게도, 남겨진 사람들에게도 쉼의 온도를 건네는 곡이다. 그래서 그 노래가 나의 끝을 부드럽게 덮어주길 바란다.
 
